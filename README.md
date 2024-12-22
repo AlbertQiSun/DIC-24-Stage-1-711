@@ -6,3 +6,14 @@
 ```markdown
 pip install -r requirements
 ```
+
+2. run the python code for demo
+```markdown
+python demo.py
+```
+3. Notice:
+   The demo now need you to have a openai api in your computer environment. You need to check first.
+
+4. The Demo now only contains real-time chat with unlimited image processing and Q&A function right now. Futher, there will be audio helper and more real-time functions.
+   
+5. .ico and other other desktop application are under constructing.  
