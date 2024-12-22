@@ -2,7 +2,12 @@
 
 0. First you need to download the test file.
 
-1. Download the env
+1. Presentation is in Google shared folder link
+```markdown
+https://drive.google.com/file/d/1MbzClbqqgass30-lhqkMEbgKZxf37M7_/view?usp=sharing
+```
+
+3. Download the env
 ```markdown
 pip install -r requirements
 ```
