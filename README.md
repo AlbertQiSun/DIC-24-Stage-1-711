@@ -1,9 +1,8 @@
 # DIC-24-Stage-1
 
-First you need to download the test file.
+0. First you need to download the test file.
+
+1. Download the env
 ```markdown
-Download the env
-```python
 pip install -r requirements
-```
 ```
